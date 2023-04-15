@@ -1,0 +1,5 @@
+1. function name case sensitive
+2. let & cont no var
+3. meaningful name
+4. type check for all types of variables 
+5. 
